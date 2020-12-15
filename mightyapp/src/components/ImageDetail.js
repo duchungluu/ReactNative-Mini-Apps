@@ -4,8 +4,10 @@ import { Text, StyleSheet, View, Image } from 'react-native';
 const ImageDetail = (props) => {
     return (
     <View>
+        <Image source={props.imageSource} />
         <Text>{props.title}</Text>
-        <Image source={require('../../assets/star.jpg')}></Image>
+        <Text>Image Rate - {props.rate}</Text>
+        
     </View>
     );
 };
