@@ -4,7 +4,7 @@
   "packagerPort": 19000,
   "webpackServerPort": 19006,
   "packagerPid": null,
-  "expoServerNgrokUrl": "https://eu-7zq.anonymous.mightyapp.exp.direct",
-  "packagerNgrokUrl": "https://packager.eu-7zq.anonymous.mightyapp.exp.direct",
-  "ngrokPid": 4624
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
